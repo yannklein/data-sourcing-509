@@ -1,0 +1,5 @@
+https://openlibrary.org/api/books?bibkeys=ISBN:0451526538&format=json&jscmd=data
+PROTOCOL://HOST/PATH?XXX=YYY&ZZZ=AAA
+
+XXX=YYY&ZZZ=AAA = query string
+XXX=YYY query parameter
